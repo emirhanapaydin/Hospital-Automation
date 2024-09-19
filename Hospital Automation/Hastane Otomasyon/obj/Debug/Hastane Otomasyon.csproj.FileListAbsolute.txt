@@ -1,0 +1,46 @@
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe.config
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.pdb
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Giris.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBilgiGuncelle.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBransPanel.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorDetay.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorGiris.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorPaneli.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDuyurular.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaDetay.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaGiris.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Frmhastakayit.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmRandevuListesi.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterDetay.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterGiris.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.GenerateResource.cache
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.exe
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.pdb
+C:\Users\emirh\source\repos\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.RandevuListe.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe.config
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.exe
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\bin\Debug\Hastane Otomasyon.pdb
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.AssemblyReference.cache
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Giris.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBilgiGuncelle.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmBransPanel.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorDetay.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorGiris.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDoktorPaneli.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmDuyurular.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaDetay.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmHastaGiris.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Frmhastakayit.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmRandevuListesi.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterDetay.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.FrmSekreterGiris.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.Properties.Resources.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane_Otomasyon.RandevuListe.resources
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.GenerateResource.cache
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.exe
+C:\Users\emirh\Desktop\Hastane Otomasyon\Hastane Otomasyon\obj\Debug\Hastane Otomasyon.pdb
